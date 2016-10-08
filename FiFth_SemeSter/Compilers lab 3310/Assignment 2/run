@@ -1,0 +1,24 @@
+javac P2.java
+
+java P2 <PublicTestcases/BinaryTree.java
+
+java P2 <PublicTestcases/Factorial.java
+
+java P2 <PublicTestcases/BinarySearch.java
+
+java P2 <PublicTestcases/BubbleSort.java
+
+java P2 <PublicTestcases/LinearSearch.java
+
+java P2 <PublicTestcases/LinkedList.java
+
+java P2 <PublicTestcases/QuickSort.java
+
+java P2 <PublicTestcases/TreeVisitor.java
+
+java P2 <PublicTestcases/InheritanceCorrect.java
+
+java P2 <PublicTestcases/BasicIncorrect.java
+
+java P2 <PublicTestcases/InheritanceIncorrect.java
+

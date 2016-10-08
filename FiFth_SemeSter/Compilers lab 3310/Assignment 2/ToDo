@@ -1,0 +1,8 @@
+printing final output (BE CAREFUL)
+nothing to type check in the public static void main() (???)
+why is this (identifierlist) even present??
+System.exit(0);						//*****************doubtful****************
+Can method and class have same name???
+restrictions on type of x in System.out.println(x);    (for now it is an integer)
+no two consecutive methods on the stack
+suggestions given in moodle(redeclaring the ,methods or classes)  -------------done------------
